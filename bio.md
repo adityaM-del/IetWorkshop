@@ -1,6 +1,6 @@
 # My Academic Profile
 
-## Name
+## Full Name
 Aditya Makwe
 
 ## Department
@@ -9,3 +9,4 @@ Computer Engineering
 ## Courses Taught
 - Data Science
 - Machine Learning
+- Java
