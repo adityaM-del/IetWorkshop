@@ -10,3 +10,10 @@ Computer Engineering
 - Data Science
 - Machine Learning
 - Java
+
+## Research Interests
+- Artificial Intelligence
+- Data Science
+
+## Experience
+- 5 years teaching experience
